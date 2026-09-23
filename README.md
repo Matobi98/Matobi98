@@ -1,13 +1,17 @@
 ### hey, I'm Maxi ⚡
 
-I work on **Bitcoin and Lightning**, mostly on [lnp2pBot](https://github.com/lnp2pBot/bot) — a peer-to-peer exchange that lives inside a Telegram bot and settles over Lightning, *no custody, no middleman*. My days go into the parts that only matter under real conditions: what happens when two people cancel the same order at the same instant, how a payment settles on-chain when Lightning won't.
+I'm a **backend developer** who cut his teeth on **Bitcoin and Lightning**.
 
-> **Writing code is a way of thinking, and Bitcoin is where code stopped being abstract**
+#### What I've been up to
 
-Lately I've been working my way down into the protocol itself — **HTLCs, preimages, routing**. Something that can't be faked or forced — that's the layer I want to work on.
+- **[Mostro](https://github.com/MostroP2P/mostro)** · 2026 – now. Contributing to a peer-to-peer Lightning exchange, and learning **Rust** on the way in. Same problems, sharper tools.
+- **[lnp2pBot](https://github.com/lnp2pBot/bot)** · 2026. Lead dev of a P2P exchange that lives inside a Telegram bot and settles over Lightning, *no custody, no middleman*. Patched a duplicate-payment bug in invoice parsing, took the whole thing from Node 18 to 22, and reviewed the community's PRs.
+- **Libertech** · 2023 – 2026. Co-founded a WhatsApp chatbot company for health professionals. Built it, shipped it, ran it on Docker, and learned that the client's problem is never the one they first describe.
 
-Also co-building [KrossSwap](https://github.com/KrossSwap) — a Lightning ↔ on-chain swap service.
+#### Tools
+
+TypeScript · Node.js · Python · Rust (learning) · MongoDB · LND · Docker · GitHub Actions · Mocha / Chai / Sinon
 
 ---
 
-**Buenos Aires** · reach me on [Telegram](https://t.me/MaxiVila)
+**Buenos Aires** · reach me on [Telegram](https://t.me/MaxiVila) · [LinkedIn](https://linkedin.com/in/maximiliano-vila)
